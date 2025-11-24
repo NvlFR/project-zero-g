@@ -16,3 +16,4 @@ logs/
 # OS Generated
 .DS_Store
 Thumbs.db
+address_list.txt
