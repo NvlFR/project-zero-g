@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (RAHASIA!)
+.env
+
+# Database & Data (RAHASIA! JANGAN DI-UPLOAD)
+data/
+*.db
+*.sqlite
+
+# Logs
+logs/
+*.log
+
+# OS Generated
+.DS_Store
+Thumbs.db
